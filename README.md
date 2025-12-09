@@ -37,4 +37,4 @@ License
 =======
 All code is available under the [GPL license version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later.
 
-Assets (graphics, levels, etc.) are available under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) therefore the game may not be sold without permission with these intact. Permission is not granted to use characters from this game in other games, however.
+Assets (graphics, levels, etc.) are available under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) therefore the game may not be sold without permission with these intact. Permission is not granted to use the character and design of Nova in anything else. Be aware that most of the characters with dialog are cameos of people I know, so they probably should not be used either.

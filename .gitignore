@@ -11,3 +11,12 @@ debug
 *.dbg
 debug.dbg
 *.dbg
+levels/blank tall level.s
+levels/boss2 old.s
+levels/bummer1.s
+levels/bummer2.s
+levels/burgers2.s
+levels/chiptallold.s
+levels/default.s
+levels/glider.s
+levels/underground3.s
